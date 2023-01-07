@@ -5,23 +5,26 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Harvard University</i>, Class of 2022
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Major in Computer Science</li>
+                        <li>Minor in Economics</li>
+                        <li>Varsity Football</li>
+                        <li>President of Cybersecurity Club</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>EY Parthenon</i> - <strong>Associate</strong>, 2022-Present
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Conduct product and technology due diligence for software-focused private equity clients</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>MACH37 Cyber Accelerator</i> - <strong>Technology Scout Associate</strong>, 2019-2022
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Wrote 100+ investment memos on startups in cybersecurity, quantum computing, and space computing.</li>
+                        <li>Wrote market research reports on quantum computing and space computing.</li>
+                        <li>Authored dozens of blogs about emerging technologies and trends in cybersecurity.</li>
                     </ul>
                 </li>
             </ul>

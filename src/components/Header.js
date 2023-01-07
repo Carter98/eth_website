@@ -1,15 +1,13 @@
 // Import Assets
-import profile from '../assets/profile.png';
+import carter from '../assets/carter.jpg';
 
 const Header = () => {
     return (
         <section className='header'>
-            <img src={profile} alt="John Doe" />
+            <img src={carter} alt="Carter Hartmann" />
 
             <div className='header__content'>
-                <h1>Hi, I'm John Doe</h1>
-                <p>Blockchain Developer</p>
-                <button className='button'>Get In Touch</button>
+                <h1>Carter's website</h1>
             </div>
         </section>
     );
